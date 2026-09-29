@@ -1,6 +1,6 @@
 # README
 
-This repository provides code to reproduce the experiments in the SP-2027 Submission "NeuroFilter: Activation-Based Guardrails for Privacy-Conscious LLM Agents".
+This repository provides code to reproduce the experiments in the submission "NeuroFilter: Activation-Based Guardrails for Privacy-Conscious LLM Agents".
 
 In particular, each folder provides code to run the eponymous experiment.
 
@@ -13,4 +13,4 @@ In particular, each folder provides code to run the eponymous experiment.
 
 Each python script has a self-explanatory name and is self-contained.
 
-The required Python packages are listed in neurofilter_requirements_sp27.txt.
+The required Python packages are listed in neurofilter_requirements.txt.
